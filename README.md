@@ -27,5 +27,5 @@ remove_item(self, product, quantity): Removes a specified quantity of a product 
 get_total(self): Calculates and returns the total price of all items in the cart.
 display_cart(self): Prints the contents of the shopping cart and the total price.
 Example Usage
-The code includes an example demonstrating how to create Product objects, add and remove items from the ShoppingCart, and display the product information and cart contents.
+The code includes an example demonstrating how to create Product objects,add and remove items from the ShoppingCart, and display the product information and cart contents.
 
